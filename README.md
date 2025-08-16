@@ -7,7 +7,7 @@
 	<a href="https://t.me/amira820" target="_blank">
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
-	<a href="https://instagram.com/amir_ch80" target="_blank">
+	<a href="https://instagram.com/python_fars" target="_blank">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 	</a>
 </p>
