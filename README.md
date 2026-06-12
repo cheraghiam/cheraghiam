@@ -48,7 +48,29 @@ I'm passionate about building intelligent systems — from training deep neural 
 
 ## 🚀 Tech Stack
 
-[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=4&line1=python,Python,3776AB;pytorch,PyTorch,EE4C2C;huggingface,Hugging+Face,FFD21E;openai,LLM,412991;keras,CNN,D00000;&line2=langchain,LangChain,1C3C3C;llamaindex,LlamaIndex,7C3AED;langgraph,LangGraph,2D9CDB;pinecone,Vector+DB,00B1A6;chromadb,ChromaDB,FF6B35;&line3=numpy,NumPy,013243;pandas,Pandas,150458;matplotlib,Matplotlib,FC4F30;scipy,SciPy,8CAAE6;seaborn,Seaborn,4C8CB5;&line4=docker,Docker,2496ED;git,Git,F05032;linux,Linux,FCC624;arduino,Arduino,00979D;espressif,ESP32,E7352C;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=4&line1=python,Python,3776AB;pytorch,PyTorch,EE4C2C;huggingface,Hugging+Face,FFD21E;openai,LLM,412991;keras,CNN,D00000;&line2=langchain,LangChain,1C3C3C;llamaindex,LlamaIndex,7C3AED;langgraph,LangGraph,2D9CDB;pinecone,Vector+DB,00B1A6;chromadb,ChromaDB,FF6B35;&line3=numpy,NumPy,013243;pandas,Pandas,150458;matplotlib,Matplotlib,FC4F30;scipy,SciPy,8CAAE6;seaborn,Seaborn,4C8CB5;&line4=docker,Docker,2496ED;git,Git,F05032;linux,Linux,FCC624;arduino,Arduino,00979D;espressif,ESP32,E7352C;)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM"/>
+  <img src="https://img.shields.io/badge/CNN-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="CNN"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/LangGraph-2D9CDB?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Vector%20DB-00B1A6?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector DB"/>
+  <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=googlecloud&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-FC4F30?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CB5?style=for-the-badge&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer"/>
+</p>
 
 ---
 
