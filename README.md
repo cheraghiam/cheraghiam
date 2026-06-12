@@ -2,7 +2,7 @@
 
 Hi, I'm **amirabbas cheraghi**! Welcome to my GitHub profile.
 
-I'm passionate about building intelligent systems — from training deep neural networks to deploying them on edge devices. Currently exploring LLMs, CNNs, and the intersection of AI with embedded hardware.
+I'm passionate about building intelligent systems — from training deep neural networks to deploying them on edge devices. Currently exploring LLMs, LangChain, RAG pipelines, and the intersection of AI with embedded hardware.
 
 ---
 
@@ -32,10 +32,15 @@ I'm passionate about building intelligent systems — from training deep neural 
 - Deep Learning & Neural Networks
 - CNN & Computer Vision
 - LLM & Transformers
+- LLM Application Development
+- RAG (Retrieval-Augmented Generation)
+- Prompt Engineering
+- AI Agents
 - Machine Learning
 - Python
 - Git & Version Control
 - Linux
+- Docker
 - Altium Designer
 - ESP32, Arduino
 
@@ -43,21 +48,7 @@ I'm passionate about building intelligent systems — from training deep neural 
 
 ## 🚀 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C8CB5?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-FC4F30?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer"/>
-</p>
+[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=4&line1=python,Python,3776AB;pytorch,PyTorch,EE4C2C;huggingface,Hugging+Face,FFD21E;openai,LLM,412991;keras,CNN,D00000;&line2=langchain,LangChain,1C3C3C;llamaindex,LlamaIndex,7C3AED;langgraph,LangGraph,2D9CDB;pinecone,Vector+DB,00B1A6;chromadb,ChromaDB,FF6B35;&line3=numpy,NumPy,013243;pandas,Pandas,150458;matplotlib,Matplotlib,FC4F30;scipy,SciPy,8CAAE6;seaborn,Seaborn,4C8CB5;&line4=docker,Docker,2496ED;git,Git,F05032;linux,Linux,FCC624;arduino,Arduino,00979D;espressif,ESP32,E7352C;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=4&line1=python,Python,3776AB;pytorch,PyTorch,EE4C2C;huggingface,Hugging+Face,FFD21E;openai,LLM,412991;keras,CNN,D00000;&line2=langchain,LangChain,1C3C3C;llamaindex,LlamaIndex,7C3AED;langgraph,LangGraph,2D9CDB;pinecone,Vector+DB,00B1A6;chromadb,ChromaDB,FF6B35;&line3=numpy,NumPy,013243;pandas,Pandas,150458;matplotlib,Matplotlib,FC4F30;scipy,SciPy,8CAAE6;seaborn,Seaborn,4C8CB5;&line4=docker,Docker,2496ED;git,Git,F05032;linux,Linux,FCC624;arduino,Arduino,00979D;espressif,ESP32,E7352C;)
 
 ---
 
